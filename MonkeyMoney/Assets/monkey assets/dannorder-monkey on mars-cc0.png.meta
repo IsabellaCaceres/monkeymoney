@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: dabaf361536f34cc18391e8c8af9a6e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2991576500563479978
+    second: dannorder-monkey on mars-cc0_0
+  - first:
+      213: 8087727107990013264
+    second: dannorder-monkey on mars-cc0_1
+  - first:
+      213: 6228592801163043544
+    second: dannorder-monkey on mars-cc0_2
+  - first:
+      213: -4108040366679709433
+    second: dannorder-monkey on mars-cc0_3
+  - first:
+      213: -322517167247077792
+    second: dannorder-monkey on mars-cc0_4
+  - first:
+      213: -2427122646810557589
+    second: dannorder-monkey on mars-cc0_5
+  - first:
+      213: -6395680079754102287
+    second: dannorder-monkey on mars-cc0_6
+  - first:
+      213: 4263854773531482576
+    second: dannorder-monkey on mars-cc0_7
+  - first:
+      213: 1054925808019719053
+    second: dannorder-monkey on mars-cc0_8
+  - first:
+      213: 8287597150939772435
+    second: dannorder-monkey on mars-cc0_9
+  - first:
+      213: -7756800715758036095
+    second: dannorder-monkey on mars-cc0_10
+  - first:
+      213: -5669076158364631453
+    second: dannorder-monkey on mars-cc0_11
+  - first:
+      213: -740060562477757684
+    second: dannorder-monkey on mars-cc0_12
+  - first:
+      213: 2757219536149370743
+    second: dannorder-monkey on mars-cc0_13
+  - first:
+      213: -6150930434169687112
+    second: dannorder-monkey on mars-cc0_14
+  - first:
+      213: -2806065937440981605
+    second: dannorder-monkey on mars-cc0_15
+  - first:
+      213: -6034688526978059543
+    second: dannorder-monkey on mars-cc0_16
+  - first:
+      213: -4980649484931928270
+    second: dannorder-monkey on mars-cc0_17
+  - first:
+      213: 5901914838151727868
+    second: dannorder-monkey on mars-cc0_18
+  - first:
+      213: 2558664976360278979
+    second: dannorder-monkey on mars-cc0_19
+  - first:
+      213: -7915371979194479425
+    second: dannorder-monkey on mars-cc0_20
+  - first:
+      213: -631743827119299768
+    second: dannorder-monkey on mars-cc0_21
+  - first:
+      213: 8586289193563865074
+    second: dannorder-monkey on mars-cc0_22
+  - first:
+      213: -1829621097055866898
+    second: dannorder-monkey on mars-cc0_23
+  - first:
+      213: -3811104696254450583
+    second: dannorder-monkey on mars-cc0_24
+  - first:
+      213: 8756213998225962153
+    second: dannorder-monkey on mars-cc0_25
+  - first:
+      213: 3619624777636783883
+    second: dannorder-monkey on mars-cc0_26
+  - first:
+      213: 3793492005901733182
+    second: dannorder-monkey on mars-cc0_27
+  - first:
+      213: -7043759199602741360
+    second: dannorder-monkey on mars-cc0_28
+  - first:
+      213: -5050233925718290972
+    second: dannorder-monkey on mars-cc0_29
+  - first:
+      213: 2839582217738251339
+    second: dannorder-monkey on mars-cc0_30
+  - first:
+      213: -7483982066085803493
+    second: dannorder-monkey on mars-cc0_31
+  - first:
+      213: 42601647341419504
+    second: dannorder-monkey on mars-cc0_32
+  - first:
+      213: 7529639981370134225
+    second: dannorder-monkey on mars-cc0_33
+  - first:
+      213: 7154299117031527849
+    second: dannorder-monkey on mars-cc0_34
+  - first:
+      213: -41805378746256745
+    second: dannorder-monkey on mars-cc0_35
+  - first:
+      213: -8577547263820572201
+    second: dannorder-monkey on mars-cc0_36
+  - first:
+      213: -1890191359462108225
+    second: dannorder-monkey on mars-cc0_37
+  - first:
+      213: -6199098835603068520
+    second: dannorder-monkey on mars-cc0_38
+  - first:
+      213: 6836621925137614913
+    second: dannorder-monkey on mars-cc0_39
+  - first:
+      213: 1355350155724095284
+    second: dannorder-monkey on mars-cc0_40
+  - first:
+      213: 5527759215322057269
+    second: dannorder-monkey on mars-cc0_41
+  - first:
+      213: -6256135363268186656
+    second: dannorder-monkey on mars-cc0_42
+  - first:
+      213: 86441337671577713
+    second: dannorder-monkey on mars-cc0_43
+  - first:
+      213: 6997189754030325519
+    second: dannorder-monkey on mars-cc0_44
+  - first:
+      213: 6264224555583233021
+    second: dannorder-monkey on mars-cc0_45
+  - first:
+      213: -8461057180370439244
+    second: dannorder-monkey on mars-cc0_46
+  - first:
+      213: 297263271936809126
+    second: dannorder-monkey on mars-cc0_47
+  - first:
+      213: 5555321837506785516
+    second: dannorder-monkey on mars-cc0_48
+  - first:
+      213: 4742721531407956364
+    second: dannorder-monkey on mars-cc0_49
+  - first:
+      213: 8915329724806269135
+    second: dannorder-monkey on mars-cc0_50
+  - first:
+      213: 7415174965704222147
+    second: dannorder-monkey on mars-cc0_51
+  - first:
+      213: -584934875848851816
+    second: dannorder-monkey on mars-cc0_52
+  - first:
+      213: -6203889213509271320
+    second: dannorder-monkey on mars-cc0_53
+  - first:
+      213: 710226273798207698
+    second: dannorder-monkey on mars-cc0_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652f185d509cb76d0800000000000000
+      internalID: -2991576500563479978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 97
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ca0044f06d3070800000000000000
+      internalID: 8087727107990013264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d2e0e3f628607650800000000000000
+      internalID: 6228592801163043544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 98
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70927154d0f4df6c0800000000000000
+      internalID: -4108040366679709433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 97
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ec54c5850368bf0800000000000000
+      internalID: -322517167247077792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b630d8aefc0215ed0800000000000000
+      internalID: -2427122646810557589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_6
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 96
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9f63d6adafd37a0800000000000000
+      internalID: -6395680079754102287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9923e53514c2b30800000000000000
+      internalID: 4263854773531482576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_8
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 96
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d834863ee69d3ae00800000000000000
+      internalID: 1054925808019719053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316fd4ff2b5730370800000000000000
+      internalID: 8287597150939772435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b1fb7a8de4a5490800000000000000
+      internalID: -7756800715758036095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e3a0025456351b0800000000000000
+      internalID: -5669076158364631453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_12
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bcc35e6d6cab5f0800000000000000
+      internalID: -740060562477757684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77753fb4f8c934620800000000000000
+      internalID: 2757219536149370743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_14
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b33d21fb5183aaa0800000000000000
+      internalID: -6150930434169687112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9db186a5e9de09d0800000000000000
+      internalID: -2806065937440981605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2f85302ca704ca0800000000000000
+      internalID: -6034688526978059543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f66eb9ead21eab0800000000000000
+      internalID: -4980649484931928270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_18
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 72
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa04ae8640d7e150800000000000000
+      internalID: 5901914838151727868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb00375d34328320800000000000000
+      internalID: 2558664976360278979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc48035f13f62290800000000000000
+      internalID: -7915371979194479425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 843228b16589b37f0800000000000000
+      internalID: -631743827119299768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff36298780a82770800000000000000
+      internalID: 8586289193563865074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefac645e41eb96e0800000000000000
+      internalID: -1829621097055866898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9643ee9887c3c1bc0800000000000000
+      internalID: -3811104696254450583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bf8d2d32548970800000000000000
+      internalID: 8756213998225962153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b072e33ce8d7b3230800000000000000
+      internalID: 3619624777636783883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d8e0e61e035a430800000000000000
+      internalID: 3793492005901733182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fe940d35a8f3e90800000000000000
+      internalID: -7043759199602741360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 49
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4fe87007f9e9b0800000000000000
+      internalID: -5050233925718290972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cedc67bf8386720800000000000000
+      internalID: 2839582217738251339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_31
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1acf8576fd832890800000000000000
+      internalID: -7483982066085803493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbb1a8f8f9579000800000000000000
+      internalID: 42601647341419504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de45285ba7ae7860800000000000000
+      internalID: 7529639981370134225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a51e8f442d294360800000000000000
+      internalID: 7154299117031527849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792f022ca3a7b6ff0800000000000000
+      internalID: -41805378746256745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 27
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9d9d7953e66f880800000000000000
+      internalID: -8577547263820572201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_37
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb39fb529f0b4c5e0800000000000000
+      internalID: -1890191359462108225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_38
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8996758047068f9a0800000000000000
+      internalID: -6199098835603068520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_39
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148897f3b6f80ee50800000000000000
+      internalID: 6836621925137614913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_40
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f743229cb2fc210800000000000000
+      internalID: 1355350155724095284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_41
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 26
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ac92118bb86bc40800000000000000
+      internalID: 5527759215322057269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_42
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 27
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ede3a5980ebd29a0800000000000000
+      internalID: -6256135363268186656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_43
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170f2d940f9133100800000000000000
+      internalID: 86441337671577713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ffaf232030b1160800000000000000
+      internalID: 6997189754030325519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_45
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb51d44b0ffee650800000000000000
+      internalID: 6264224555583233021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_46
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b370c3b259449a80800000000000000
+      internalID: -8461057180370439244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a85090fe57102400800000000000000
+      internalID: 297263271936809126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_48
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0ff8127c7781d40800000000000000
+      internalID: 5555321837506785516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89fa24da1881d140800000000000000
+      internalID: 4742721531407956364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_50
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc80f86362d99bb70800000000000000
+      internalID: 8915329724806269135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_51
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c56b22185ef7e660800000000000000
+      internalID: 7415174965704222147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89eba4c54d4e1e7f0800000000000000
+      internalID: -584934875848851816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_53
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e007e241ab57e9a0800000000000000
+      internalID: -6203889213509271320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dannorder-monkey on mars-cc0_54
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d834e7780b3bd900800000000000000
+      internalID: 710226273798207698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dannorder-monkey on mars-cc0_0: -2991576500563479978
+      dannorder-monkey on mars-cc0_1: 8087727107990013264
+      dannorder-monkey on mars-cc0_10: -7756800715758036095
+      dannorder-monkey on mars-cc0_11: -5669076158364631453
+      dannorder-monkey on mars-cc0_12: -740060562477757684
+      dannorder-monkey on mars-cc0_13: 2757219536149370743
+      dannorder-monkey on mars-cc0_14: -6150930434169687112
+      dannorder-monkey on mars-cc0_15: -2806065937440981605
+      dannorder-monkey on mars-cc0_16: -6034688526978059543
+      dannorder-monkey on mars-cc0_17: -4980649484931928270
+      dannorder-monkey on mars-cc0_18: 5901914838151727868
+      dannorder-monkey on mars-cc0_19: 2558664976360278979
+      dannorder-monkey on mars-cc0_2: 6228592801163043544
+      dannorder-monkey on mars-cc0_20: -7915371979194479425
+      dannorder-monkey on mars-cc0_21: -631743827119299768
+      dannorder-monkey on mars-cc0_22: 8586289193563865074
+      dannorder-monkey on mars-cc0_23: -1829621097055866898
+      dannorder-monkey on mars-cc0_24: -3811104696254450583
+      dannorder-monkey on mars-cc0_25: 8756213998225962153
+      dannorder-monkey on mars-cc0_26: 3619624777636783883
+      dannorder-monkey on mars-cc0_27: 3793492005901733182
+      dannorder-monkey on mars-cc0_28: -7043759199602741360
+      dannorder-monkey on mars-cc0_29: -5050233925718290972
+      dannorder-monkey on mars-cc0_3: -4108040366679709433
+      dannorder-monkey on mars-cc0_30: 2839582217738251339
+      dannorder-monkey on mars-cc0_31: -7483982066085803493
+      dannorder-monkey on mars-cc0_32: 42601647341419504
+      dannorder-monkey on mars-cc0_33: 7529639981370134225
+      dannorder-monkey on mars-cc0_34: 7154299117031527849
+      dannorder-monkey on mars-cc0_35: -41805378746256745
+      dannorder-monkey on mars-cc0_36: -8577547263820572201
+      dannorder-monkey on mars-cc0_37: -1890191359462108225
+      dannorder-monkey on mars-cc0_38: -6199098835603068520
+      dannorder-monkey on mars-cc0_39: 6836621925137614913
+      dannorder-monkey on mars-cc0_4: -322517167247077792
+      dannorder-monkey on mars-cc0_40: 1355350155724095284
+      dannorder-monkey on mars-cc0_41: 5527759215322057269
+      dannorder-monkey on mars-cc0_42: -6256135363268186656
+      dannorder-monkey on mars-cc0_43: 86441337671577713
+      dannorder-monkey on mars-cc0_44: 6997189754030325519
+      dannorder-monkey on mars-cc0_45: 6264224555583233021
+      dannorder-monkey on mars-cc0_46: -8461057180370439244
+      dannorder-monkey on mars-cc0_47: 297263271936809126
+      dannorder-monkey on mars-cc0_48: 5555321837506785516
+      dannorder-monkey on mars-cc0_49: 4742721531407956364
+      dannorder-monkey on mars-cc0_5: -2427122646810557589
+      dannorder-monkey on mars-cc0_50: 8915329724806269135
+      dannorder-monkey on mars-cc0_51: 7415174965704222147
+      dannorder-monkey on mars-cc0_52: -584934875848851816
+      dannorder-monkey on mars-cc0_53: -6203889213509271320
+      dannorder-monkey on mars-cc0_54: 710226273798207698
+      dannorder-monkey on mars-cc0_6: -6395680079754102287
+      dannorder-monkey on mars-cc0_7: 4263854773531482576
+      dannorder-monkey on mars-cc0_8: 1054925808019719053
+      dannorder-monkey on mars-cc0_9: 8287597150939772435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,41 +1,28 @@
-# Ignore everything
-/*
+# Ignore Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
-# Allow top-level folders
-!/Assets/
-!/Packages/
-!/ProjectSettings/
-
-# Allow everything inside them
-/Assets/**
-/Packages/**
-/ProjectSettings/**
-
-# Ignore generated Unity folders
-/Library/
-/Temp/
-/Obj/
-/Build/
-/Builds/
-/Logs/
-/UserSettings/
-
-# IDE files
+# Ignore IDE files
 .vs/
 .idea/
 .gradle/
 
-# Visual Studio / Rider files
+# Ignore builds
+*.apk
+*.aab
+*.app
+
+# Ignore logs
+*.log
+
+# Optional: VS / Rider
 *.csproj
 *.sln
 *.suo
 *.user
 *.userprefs
-
-# Builds
-*.apk
-*.aab
-*.app
-
-# Logs
-*.log
