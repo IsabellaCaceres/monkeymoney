@@ -1,43 +1,41 @@
-```gitignore
-# Ignore everything by default
-*
+# Ignore everything
+/*
 
-# Allow these folders
-!Assets/
-!Packages/
-!ProjectSettings/
+# Allow top-level folders
+!/Assets/
+!/Packages/
+!/ProjectSettings/
 
-# Keep contents of allowed folders
-!Assets/**
-!Packages/**
-!ProjectSettings/**
+# Allow everything inside them
+/Assets/**
+/Packages/**
+/ProjectSettings/**
 
 # Ignore generated Unity folders
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-UserSettings/
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
 
-# Ignore IDE/editor files
+# IDE files
 .vs/
 .idea/
 .gradle/
 
-# Ignore solution/project files
+# Visual Studio / Rider files
 *.csproj
 *.sln
 *.suo
 *.user
 *.userprefs
 
-# Ignore builds
+# Builds
 *.apk
 *.aab
 *.app
 
-# Ignore logs
+# Logs
 *.log
-```
